@@ -1,0 +1,5 @@
+projectKey=org.sonar.ant.tests:testng
+serverUrl=http://100.76.140.112:9090
+dashboardUrl=http://100.76.140.112:9090/dashboard/index/org.sonar.ant.tests:testng
+ceTaskId=AVj1krV0BbhyzeLFN0Rl
+ceTaskUrl=http://100.76.140.112:9090/api/ce/task?id=AVj1krV0BbhyzeLFN0Rl

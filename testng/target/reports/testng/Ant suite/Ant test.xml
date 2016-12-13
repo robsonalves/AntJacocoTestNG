@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="VSALM" name="hello.HelloWorldTest" tests="2" failures="1" timestamp="12 Dec 2016 23:53:29 GMT" time="0.111" errors="0">
+  <testcase name="testWillAlwaysFail" time="0.035" classname="hello.HelloWorldTest">
+    <failure type="java.lang.AssertionError" message="An error message">
+      <![CDATA[java.lang.AssertionError: An error message
+	at hello.HelloWorldTest.testWillAlwaysFail(HelloWorldTest.java:15)
+... Removed 25 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="testWillIncreaseCoverage" time="0.013" classname="hello.HelloWorldTest"/>
+</testsuite>

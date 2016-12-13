@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Ant suite]" parallel="false">
+  <test name="Ant test(failed)" preserve-order="false">
+    <classes>
+      <class name="hello.HelloWorldTest">
+        <methods>
+          <include name="testWillAlwaysFail"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>
